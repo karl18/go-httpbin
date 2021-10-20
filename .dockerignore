@@ -1,2 +1,6 @@
 .git
 dist
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.git
+.gitignore

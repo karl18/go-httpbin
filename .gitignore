@@ -25,3 +25,8 @@ _testmain.go
 
 dist/*
 coverage.txt
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
